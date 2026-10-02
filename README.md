@@ -3,6 +3,7 @@
 # INS3064 — Development Checklist
 
 Homework reference: https://hieutachi.github.io/VNU_IS_Ebook_INS3064/homework/index.html
+Youtube demo:
 
 | Session | Status |
 |---|---|
