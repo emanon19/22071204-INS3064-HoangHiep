@@ -3,13 +3,13 @@
 # INS3064 — Development Checklist
 
 Homework reference: https://hieutachi.github.io/VNU_IS_Ebook_INS3064/homework/index.html   
-Youtube demo:
+Youtube demo: https://www.youtube.com/playlist?list=PLNs05LU6xoPE
 
 | Session | Status |
 |---|---|
-| Session 01 | [ ] Not Done |
-| Session 02 | [ ] Not Done |
-| Session 03 | [ ] Not Done |
+| Session 01 | [x] Done |
+| Session 02 | [x] Done |
+| Session 03 | [x] Done |
 | Session 04 | [x] Done |
 | Session 05 | [ ] Not Done |
 | Session 06 | [ ] Not Done |
