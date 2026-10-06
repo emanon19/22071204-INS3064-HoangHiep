@@ -11,8 +11,8 @@ Youtube demo: https://www.youtube.com/playlist?list=PLNs05LU6xoPE
 | Session 02 | [x] Done |
 | Session 03 | [x] Done |
 | Session 04 | [x] Done |
-| Session 05 | [ ] Not Done |
-| Session 06 | [ ] Not Done |
+| Session 05 | [x] Done |
+| Session 06 | [x] Done |
 | Session 07 | [ ] Not Done |
 | Session 08 | [ ] Not Done |
 | Session 09 | [ ] Not Done |
