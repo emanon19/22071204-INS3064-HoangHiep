@@ -13,8 +13,8 @@ Youtube demo: https://www.youtube.com/playlist?list=PLNs05LU6xoPE
 | Session 04 | [x] Done |
 | Session 05 | [x] Done |
 | Session 06 | [x] Done |
-| Session 07 | [ ] Not Done |
-| Session 08 | [ ] Not Done |
+| Session 07 | [x] Done |
+| Session 08 | [x] Midterm, no HW |
 | Session 09 | [ ] Not Done |
 | Session 10 | [ ] Not Done |
 | Session 11 | [ ] Not Done |
