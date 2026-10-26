@@ -16,7 +16,7 @@ Youtube demo: https://www.youtube.com/playlist?list=PLNs05LU6xoPE
 | Session 07 | [x] Done |
 | Session 08 | [x] Midterm, no HW |
 | Session 09 | [ ] Not Done |
-| Session 10 | [ ] Not Done |
+| Session 10 | [x] Done |
 | Session 11 | [ ] Not Done |
 | Session 12 | [ ] Not Done |
 | Session 13 | [ ] Not Done |
