@@ -1,0 +1,11 @@
+[2026-11-09 19:02:05] DivisionByZeroException: Division by zero is not allowed. Please enter a non-zero second number. | Input: "5 / 0" | IP: ::1
+[2026-11-09 19:04:11] DivisionByZeroException: Division by zero is not allowed. Please enter a non-zero second number. | Input: "999999999 / 0" | IP: ::1
+[2026-11-09 19:04:13] DivisionByZeroException: Division by zero is not allowed. Please enter a non-zero second number. | Input: "999999999 / 0" | IP: ::1
+[2026-11-09 19:06:55] OverflowException: The calculation exceeded PHP’s supported numeric range. Try smaller numbers. | Input: "100 ** 10000" | IP: ::1
+[2026-11-09 19:09:55] InvalidOperatorException: The selected operator is not supported. Please choose one from the list. | Input: "1 & 1" | IP: ::1
+[2026-11-09 19:10:36] InvalidOperatorException: The selected operator is not supported. Please choose one from the list. | Input: "1 & 1" | IP: ::1
+[2026-11-09 19:10:37] InvalidOperatorException: The selected operator is not supported. Please choose one from the list. | Input: "1 & 1" | IP: ::1
+[2026-11-09 19:14:12] InvalidInputException: The first number must be a valid numeric value. Please enter a number. | Input: "abc + 5" | IP: ::1
+[2026-11-09 19:18:56] DivisionByZeroException: Division by zero is not allowed. Please enter a non-zero second number. | Input: "10 / 0" | IP: ::1
+[2026-11-09 19:19:26] InvalidInputException: The first number must be a valid numeric value. Please enter a number. | Input: "abc + 0" | IP: ::1
+[2026-11-09 19:19:49] InvalidOperatorException: The selected operator is not supported. Please choose one from the list. | Input: "1 & 0" | IP: ::1
